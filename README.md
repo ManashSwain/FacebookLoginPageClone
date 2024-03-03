@@ -18,7 +18,6 @@ Getting Started
 
 To get started with the project, simply clone this repository to your local machine:
 
-bash
 
 git clone https://github.com/ManashSwain/FacebookLoginPageClone.git
 
